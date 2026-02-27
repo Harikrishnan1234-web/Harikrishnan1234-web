@@ -5,22 +5,43 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Student  
-🤖 Built Machine Learning models with **92% accuracy**  
-🔐 Passionate about Secure AI Systems & Cybersecurity  
+🎓 Pre-Final Year B.E CSE Student (Anna University Affiliated)  
+🤖 Passionate about Artificial Intelligence, Data Science & Secure Systems  
+📊 Built ML models achieving **92% accuracy**  
 ☁️ Cloud Certified (AWS | OCI | Google Cloud)  
-💡 Focused on building scalable and secure applications  
+🔐 Interested in building scalable & secure AI-powered applications  
+
+💡 I enjoy working on data analysis, machine learning algorithms, cloud deployments, and solving real-world problems through technology.
+
+😄 **Fun Fact:** Can’t lift a toothbrush, but can lift an entire codebase to fix one bug 🥱
+
+---
+
+## 🔥 Interests
+
+- Exploring advancements in AI & Data Science  
+- Building secure and scalable AI systems  
+- Machine Learning, NLP & Automation  
+- Cloud-native application development  
+
+---
+
+## 🤝 Collaboration
+
+- Open to collaborating on AI, ML & Cloud-based projects  
+- Interested in research-oriented and real-world problem solving  
+- Always excited to connect with developers & innovators  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/harikrishnan-v-00b88a2a4" target="blank">
+<a href="https://www.linkedin.com/in/harikrishnan-v-00b88a2a4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:vharikrishnan1234@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Harikrishnan1234-web">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
@@ -29,64 +50,69 @@
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### 💻 Programming
 Python • SQL • C • C++ • JavaScript  
 
-### 🌐 Web Development
-Frontend: HTML, CSS, JavaScript  
-Backend: Python (Streamlit)  
-
-### 🤖 AI & Machine Learning
+### 🤖 AI / ML
 Machine Learning • Deep Learning • NLP  
 Logistic Regression • Random Forest • Gradient Boosting  
+TensorFlow • PyTorch • Scikit-Learn  
+
+### 🧠 Advanced AI
+LLMs • RAG • LangChain • FAISS  
+AI Agents • Agentic AI • Multi-Agent Systems  
+
+### 🌐 Web & Backend
+HTML • CSS • JavaScript  
+FastAPI • Streamlit  
 
 ### ☁️ Cloud
 AWS • Oracle Cloud Infrastructure • Google Cloud  
+Render • Netlify • Vercel  
+
+### 🗄️ Databases
+MySQL • MongoDB • SQLite • Snowflake  
+
+### 📊 Data Tools
+Pandas • NumPy • Matplotlib • Plotly • MLflow • Power BI  
 
 ### 🔐 Cybersecurity
 Cryptography • Ethical Hacking Basics  
-SHA-1 Hashing • k-Anonymity Model  
+SHA-1 Hashing • k-Anonymity  
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📰 AI Fake News Detection System
-✔ NLP-based ML model  
-✔ TF-IDF Vectorization  
-✔ Achieved **92% accuracy**  
+## 📰 AI Fake News Detection
+- NLP-based classification system  
+- TF-IDF & ML algorithms  
+- Achieved **92% accuracy**
 
-### 🔐 StrengthX – Password Security Tool
-✔ Password strength analyzer  
-✔ SHA-1 hashing implementation  
-✔ Secure breach detection using k-Anonymity  
-
----
-
-## 💼 Internship Experience
-
-- Artificial Intelligence Intern – Rinex (2025)  
-- Data Science Intern – Rinex (2025)  
-- Web Development Intern – Rinex (2025)  
+## 🔐 StrengthX – Password Security Tool
+- SHA-1 hashing implementation  
+- Secure API breach detection  
+- Privacy-first architecture  
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- OCI 2025 Certified AI Foundations Associate  
+- OCI 2025 AI Foundations Associate  
+- OCI 2025 Foundations Associate  
 - AWS Cloud Practitioner Essentials  
-- Google Cloud Introduction to Data Science  
-- Google Cloud Cybersecurity Certificate  
-- IBM SkillBuild – Machine Learning & Deep Learning  
+- Google Cloud Data Science  
+- Google Cloud Cybersecurity  
+- IBM SkillBuild – ML & DL  
 - Ethical Hacking 101 – Simplilearn  
 - Introduction to CISSP  
 - Introduction to Cryptography  
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harikrishnan1234-web&show_icons=true&theme=tokyonight" />
@@ -95,4 +121,4 @@ SHA-1 Hashing • k-Anonymity Model
 
 ---
 
-<h3 align="center">⭐ Building Intelligent & Secure Systems</h3>
+<h3 align="center">🚀 Building Intelligent, Secure & Scalable Systems</h3>
