@@ -36,6 +36,11 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hk_hackr.24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harikrishnan-v-00b88a2a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vharikrishnan1234@gmail.com) 
+<p>
+<a href="https://github.com/Harikrishnan1234-web">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</a>
+</p>
 ---
 
 # 🛠️ Tech Stack
@@ -113,8 +118,6 @@ SHA-1 Hashing • k-Anonymity
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harikrishnan1234-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harikrishnan1234-web&icon=0&color=0)](https://visitcount.itsvg.in)
